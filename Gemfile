@@ -77,6 +77,9 @@ gem 'therubyracer',                      :platform => :mri
 gem 'vagrant'
 gem 'veewee'
 
+# cloudy stuff
+gem 'fog'
+
 # system configuration management
 gem 'chef'
 
